@@ -15,7 +15,7 @@ pyOpenSSL==19.0.0
 PySocks==1.7.0
 python-dotenv==0.10.3
 python-telegram-bot==12.1.1
-pywin32==223
+pywin32==301
 requests==2.22.0
 ruamel-yaml==0.15.46
 six==1.12.0
